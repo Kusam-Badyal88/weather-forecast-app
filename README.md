@@ -43,21 +43,26 @@ A modern, responsive **real-time weather forecasting web app** 🌦️ that prov
 
 ## 📸 Screenshots
 
-### 🌆 Home Page
+### 🌆 Current Weather by City Name
+User searches for a city's current weather using the search bar.
 
-> User enters city name
+![Current Weather](https://github.com/Kusam-Badyal88/weather-forecast-app/blob/master/static/screenshots/current_weather.png?raw=true)
 
-![Home Page](https://github.com/Kusam-Badyal88/weather-forecast-app/blob/master/static/screenshots/home.png?raw=true)
+---
+
+### 🗓️ 5-Day Weather Forecast
+Displays weather prediction for the next 5 days with temperature and conditions.
+
+![5 Day Forecast](https://github.com/Kusam-Badyal88/weather-forecast-app/blob/master/static/screenshots/forecast_5_days.png?raw=true)
 
 ---
 
-### 🌦️ Forecast Result Page
+### 📍 Weather from Your Current Location
+After login, user's location is auto-detected and weather is displayed based on it.
 
-> Displays temperature, weather type, humidity, wind speed, pressure, etc.
+![Auto Location Weather](https://github.com/Kusam-Badyal88/weather-forecast-app/blob/master/static/screenshots/auto_location.png?raw=true)
 
-![Result Page](https://github.com/Kusam-Badyal88/weather-forecast-app/blob/master/static/screenshots/result.png?raw=true)
 
----
 
 ## ⚙️ How to Run the Project Locally
 
