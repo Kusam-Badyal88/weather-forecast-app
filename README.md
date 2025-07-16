@@ -66,16 +66,9 @@ git clone https://github.com/Kusam-Badyal88/weather-forecast-app.git
 cd weather-forecast-app
 pip install -r requirements.txt
 python app.py
-Then open your browser at:
 
-cpp
-Copy
-Edit
-http://127.0.0.1:5000
 📂 Project Structure
-arduino
-Copy
-Edit
+
 weather-forecast-app/
 ├── static/
 │   ├── style.css
